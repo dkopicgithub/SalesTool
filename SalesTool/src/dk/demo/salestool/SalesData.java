@@ -8,8 +8,9 @@ public class SalesData {
 		System.out.println("Data: ");
 		for (int i:data) {
 			System.out.println("Next value: " + i);
-			System.out.println("This is all values");
+		
 		}
+		System.out.println("This is all values");
 	}
 
 }
